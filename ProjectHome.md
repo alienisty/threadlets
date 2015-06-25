@@ -1,0 +1,2 @@
+This is a simple replacement for the Thread class in Java.
+Threadlets present a very similar interface as normal threads, but they run by re-using cached threads, if available, or by creating new ones when necessary.
